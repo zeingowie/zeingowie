@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zeingowie/](https://www.linkedin.com/in/zeingowie/)
 
-- ⚡ Fun fact - **I make music too! Check my spotify @ZeinGowie**
+- ⚡ Fun fact - **I make music too! Check my music @ https://linktr.ee/zein.gowie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
