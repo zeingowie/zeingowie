@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeingowie&label=Profile%20views&color=0e75b6&style=flat" alt="zeingowie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeingowie" alt="zeingowie" /></a> </p>
-
 - 🔭 I’ve recently just worked on [an application to predict Alzheimer's disease through MRI's!](https://winged-axon-319615.ew.r.appspot.com/)
 
 - 🌱 I’m currently learning **JavaScript + Django for Python**
