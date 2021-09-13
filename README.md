@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeingowie" alt="zeingowie" /></a> </p>
 
-- 🔭 I’m currently working on [an application to predict Alzheimer's disease through MRI's!](https://winged-axon-319615.ew.r.appspot.com/)
+- 🔭 I’ve recently just worked on [an application to predict Alzheimer's disease through MRI's!](https://winged-axon-319615.ew.r.appspot.com/)
 
 - 🌱 I’m currently learning **JavaScript + Django for Python**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zeingowie/](https://www.linkedin.com/in/zeingowie/)
 
-- ⚡ Fun fact **I make music too! Check my spotify @ZeinGowie**
+- ⚡ Fun fact - **I make music too! Check my spotify @ZeinGowie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
