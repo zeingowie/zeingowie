@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeingowie&label=Profile%20views&color=0e75b6&style=flat" alt="zeingowie" /> </p>
 
-- 🔭 I’ve recently just worked on [an application to predict Alzheimer's disease through MRI's!](https://winged-axon-319615.ew.r.appspot.com/)
-
-- 📫 How to reach me **zein.gowie@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/zeingowie/](https://www.linkedin.com/in/zeingowie/)
 
-- ⚡ Fun fact - **I make music too! Check my music @ https://linktr.ee/zein.gowie**
+- 📫 How to reach me **zein.gowie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
