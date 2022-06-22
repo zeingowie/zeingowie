@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zein</h1>
-<h3 align="center">A passionate developer/data-scientist from the UK.</h3>
+<h1 align="center">Hi, I'm Zein</h1>
+<h3 align="center">A Software Developer based in London.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeingowie&label=Profile%20views&color=0e75b6&style=flat" alt="zeingowie" /> </p>
 
 - 🔭 I’ve recently just worked on [an application to predict Alzheimer's disease through MRI's!](https://winged-axon-319615.ew.r.appspot.com/)
-
-- 🌱 I’m currently learning **JavaScript + Django for Python**
 
 - 📫 How to reach me **zein.gowie@gmail.com**
 
